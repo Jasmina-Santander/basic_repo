@@ -1,0 +1,6 @@
+# ignora cualquier archivo llamado "secret.js"
+secret.js
+# ignora cualquier archivo con extensión .txt
+*.txt
+# ignora cualquier archivo o directorio que comienza con "log", como cache-file-01, cached_assets/, etc.
+log*
